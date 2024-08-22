@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3329700318523590821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3329700318523590842}
+  m_Layer: 0
+  m_Name: RoomsL3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3329700318523590842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3329700318523590821}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3456955480387677027}
+  - {fileID: 6458724144061832850}
+  - {fileID: 5221956070806450620}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3329700317288177774
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3329700318523590842}
+    m_Modifications:
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 758639731593384375, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+        type: 3}
+      propertyPath: m_Name
+      value: Monkey Room L3R1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 449ce3ed3a514cb42886dba4fc8e5394, type: 3}
+--- !u!4 &3456955480387677027 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 129736314440338189, guid: 449ce3ed3a514cb42886dba4fc8e5394,
+    type: 3}
+  m_PrefabInstance: {fileID: 3329700317288177774}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3329700317933330672
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3329700318523590842}
+    m_Modifications:
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998006251129464024, guid: 658e1a7b86701144296c5b898852a7e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Monkey Room L3R2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 658e1a7b86701144296c5b898852a7e9, type: 3}
+--- !u!4 &6458724144061832850 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8616661175303716450, guid: 658e1a7b86701144296c5b898852a7e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 3329700317933330672}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3329700319166546512
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3329700318523590842}
+    m_Modifications:
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7856165620184901974, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+        type: 3}
+      propertyPath: m_Name
+      value: Monkey Room L3R3 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 81c3ac70ecf5f4e4183a26de8219e0b0, type: 3}
+--- !u!4 &5221956070806450620 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7371659960481068012, guid: 81c3ac70ecf5f4e4183a26de8219e0b0,
+    type: 3}
+  m_PrefabInstance: {fileID: 3329700319166546512}
+  m_PrefabAsset: {fileID: 0}
