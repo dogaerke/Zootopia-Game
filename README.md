@@ -20,7 +20,7 @@ I developed,
 6. Customers first go to the animal rooms, wait there for the animation to
 start, then there is a fifty percent chance that they will go to the gift
 rooms, pick up the gifts and return to the exit.
-7. I used a lot of Singleton Structure
+7. I used a lot of Singleton Structures
 8. I used a lot of Unity Events
 
 - ## [Zootopia Gameplay Video](https://drive.google.com/file/d/1FCdUu-LbD12uOZmKE0L-lGmz_UcTnKxm/view?usp=sharing)
